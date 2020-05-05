@@ -1,0 +1,7 @@
+Grad,Drzava
+Sarajevo,BiH
+Pariz,Francuska
+Berlin,Njemacka
+Milano,Italija
+Zagreb,Hrvatska
+New york,SAD
